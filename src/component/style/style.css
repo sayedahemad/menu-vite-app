@@ -1,0 +1,37 @@
+.title {
+}
+
+p {
+    font-size: large;
+}
+
+.btn {
+    border: 1px solid sienna;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-radius: 3rem;
+    width: 4rem;
+    height: 1.5rem;
+}
+
+.deleteBtn {
+    background-color: rgba(255, 0, 0, 0.796);
+}
+
+.editBtn {
+    background-color:rgba(47, 79, 79, 0.797);
+}
+
+.updateBtn {
+    background-color: rgba(99, 0, 0, 0.774);
+    margin-left: 1rem;
+}
+
+.title {
+    margin: 20px;
+}
+
+.add {
+    margin-left: 1rem;
+}
