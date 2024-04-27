@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = 'http://18.191.159.59:8089/api/items'
+const baseURL = 'http://18.116.199.219:8089/api/items'
 
 const getAll = () => {
     const resp = axios.get(baseURL)
